@@ -1,0 +1,11 @@
+.f-large
+ {font-size:50px;} 
+
+.f-medium {font-size:40px;}
+
+.f-small {font-size:20px;} 
+
+.f-family {font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+.h-color {color: blueviolet;}
+/* class ları atayamıyoruz external şeklinde*/ 
